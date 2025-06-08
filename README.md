@@ -8,5 +8,3 @@ This is my school GitHub account, which I use for coursework and coding assignme
 
 Repository Description:
 This repository will hold assignments and other course-related files for my class.
-
-git checkout -b lesson7
